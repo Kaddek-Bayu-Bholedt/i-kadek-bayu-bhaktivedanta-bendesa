@@ -1,0 +1,10 @@
+.container {
+  background-color: rgba(245, 245, 247, 1);
+  min-height: 110px;
+  text-align: center;
+}
+
+.container > p {
+  padding-top: 75px;
+  font-size: large;
+}
